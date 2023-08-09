@@ -1,1 +1,1 @@
-this repo is about shell redirections
+shell redirections
